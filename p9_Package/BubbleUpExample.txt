@@ -1,0 +1,264 @@
+
+Adding letter: N
+
+Adding letter: D
+
+Shifting after addition of D
+    N
+  D   -
+ - -    
+
+Adding letter: U
+
+Shifting after addition of U
+    N
+  D   U
+ - - - -
+    U
+  D   N
+ - - - -
+
+Adding letter: C
+
+Shifting after addition of C
+        U
+    D       N
+  C   -   -   -
+ - -            
+
+Adding letter: P
+
+Shifting after addition of P
+        U
+    D       N
+  C   P   -   -
+ - - - -        
+        U
+    P       N
+  C   D   -   -
+ - - - -        
+
+Adding letter: M
+
+Shifting after addition of M
+        U
+    P       N
+  C   D   M   -
+ - - - - - -    
+
+Adding letter: R
+
+Shifting after addition of R
+        U
+    P       N
+  C   D   M   R
+ - - - - - - - -
+        U
+    P       R
+  C   D   M   N
+ - - - - - - - -
+
+Adding letter: J
+
+Shifting after addition of J
+                U
+        P               R
+    C       D       M       N
+  J   -   -   -   -   -   -   -
+ - -                            
+                U
+        P               R
+    J       D       M       N
+  C   -   -   -   -   -   -   -
+ - -                            
+
+Adding letter: W
+
+Shifting after addition of W
+                U
+        P               R
+    J       D       M       N
+  C   W   -   -   -   -   -   -
+ - - - -                        
+                U
+        P               R
+    W       D       M       N
+  C   J   -   -   -   -   -   -
+ - - - -                        
+                U
+        W               R
+    P       D       M       N
+  C   J   -   -   -   -   -   -
+ - - - -                        
+                W
+        U               R
+    P       D       M       N
+  C   J   -   -   -   -   -   -
+ - - - -                        
+
+Adding letter: S
+
+Shifting after addition of S
+                W
+        U               R
+    P       D       M       N
+  C   J   S   -   -   -   -   -
+ - - - - - -                    
+                W
+        U               R
+    P       S       M       N
+  C   J   D   -   -   -   -   -
+ - - - - - -                    
+
+Adding letter: G
+
+Shifting after addition of G
+                W
+        U               R
+    P       S       M       N
+  C   J   D   G   -   -   -   -
+ - - - - - - - -                
+
+Adding letter: A
+
+Shifting after addition of A
+                W
+        U               R
+    P       S       M       N
+  C   J   D   G   A   -   -   -
+ - - - - - - - - - -            
+
+Adding letter: L
+
+Shifting after addition of L
+                W
+        U               R
+    P       S       M       N
+  C   J   D   G   A   L   -   -
+ - - - - - - - - - - - -        
+
+Adding letter: X
+
+Shifting after addition of X
+                W
+        U               R
+    P       S       M       N
+  C   J   D   G   A   L   X   -
+ - - - - - - - - - - - - - -    
+                W
+        U               R
+    P       S       M       X
+  C   J   D   G   A   L   N   -
+ - - - - - - - - - - - - - -    
+                W
+        U               X
+    P       S       M       R
+  C   J   D   G   A   L   N   -
+ - - - - - - - - - - - - - -    
+                X
+        U               W
+    P       S       M       R
+  C   J   D   G   A   L   N   -
+ - - - - - - - - - - - - - -    
+
+Adding letter: I
+
+Shifting after addition of I
+                X
+        U               W
+    P       S       M       R
+  C   J   D   G   A   L   N   I
+ - - - - - - - - - - - - - - - -
+
+Adding letter: T
+
+Shifting after addition of T
+                                X
+                U                               W
+        P               S               M               R
+    C       J       D       G       A       L       N       I
+  T   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+ - -                                                            
+                                X
+                U                               W
+        P               S               M               R
+    T       J       D       G       A       L       N       I
+  C   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+ - -                                                            
+                                X
+                U                               W
+        T               S               M               R
+    P       J       D       G       A       L       N       I
+  C   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+ - -                                                            
+
+Adding letter: B
+
+Shifting after addition of B
+                                X
+                U                               W
+        T               S               M               R
+    P       J       D       G       A       L       N       I
+  C   B   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+ - - - -                                                        
+
+Adding letter: H
+
+Shifting after addition of H
+                                X
+                U                               W
+        T               S               M               R
+    P       J       D       G       A       L       N       I
+  C   B   H   -   -   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - -                                                    
+
+Adding letter: Q
+
+Shifting after addition of Q
+                                X
+                U                               W
+        T               S               M               R
+    P       J       D       G       A       L       N       I
+  C   B   H   Q   -   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - -                                                
+                                X
+                U                               W
+        T               S               M               R
+    P       Q       D       G       A       L       N       I
+  C   B   H   J   -   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - -                                                
+
+Adding letter: Y
+
+Shifting after addition of Y
+                                X
+                U                               W
+        T               S               M               R
+    P       Q       D       G       A       L       N       I
+  C   B   H   J   Y   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - - - -                                            
+                                X
+                U                               W
+        T               S               M               R
+    P       Q       Y       G       A       L       N       I
+  C   B   H   J   D   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - - - -                                            
+                                X
+                U                               W
+        T               Y               M               R
+    P       Q       S       G       A       L       N       I
+  C   B   H   J   D   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - - - -                                            
+                                X
+                Y                               W
+        T               U               M               R
+    P       Q       S       G       A       L       N       I
+  C   B   H   J   D   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - - - -                                            
+                                Y
+                X                               W
+        T               U               M               R
+    P       Q       S       G       A       L       N       I
+  C   B   H   J   D   -   -   -   -   -   -   -   -   -   -   -
+ - - - - - - - - - -                                            
+

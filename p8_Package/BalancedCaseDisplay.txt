@@ -1,0 +1,48 @@
+Inserting M and balancing
+Inserting G and balancing
+Inserting R and balancing
+Inserting B and balancing
+Inserting J and balancing
+Inserting P and balancing
+Inserting U and balancing
+Inserting A and balancing
+Inserting C and balancing
+Inserting H and balancing
+Inserting L and balancing
+Inserting N and balancing
+Inserting Q and balancing
+Inserting S and balancing
+Inserting X and balancing
+Inserting Z and balancing
+Inserting Y and balancing
+     Identified: Right Left Case
+       - Rotating Right
+       - Rotating Left
+Inserting X and balancing
+Inserting W and balancing
+     Identified: Right Left Case
+       - Rotating Right
+       - Rotating Left
+Inserting V and balancing
+     Identified: Right Left Case
+       - Rotating Right
+       - Rotating Left
+Inserting U and balancing
+Inserting T and balancing
+Inserting S and balancing
+Inserting R and balancing
+Inserting Q and balancing
+Inserting P and balancing
+
+Tree height: 4
+
+Tree Data Display:
+                                M
+                G                               U
+        B               J               R               X
+    A       C       H       L       P       S       W       Y
+  -   -   -   -   -   -   -   -   N   Q   -   T   V   -   -   Z
+                                 - - - -     - - - -         - -
+
+List Data Display:
+A B C G H J L M N P Q R S T U V W X Y Z 

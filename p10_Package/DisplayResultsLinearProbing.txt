@@ -1,0 +1,132 @@
+State: Massachusetts - hash sum: 600, index: 0, probed index: 0
+State: Rhode Island - hash sum: 530, index: 5, probed index: 5
+State: Wyoming - hash sum: 643, index: 43, probed index: 43
+State: New Mexico - hash sum: 508, index: 58, probed index: 58
+State: Tennessee - hash sum: 621, index: 21, probed index: 21
+State: South Dakota - hash sum: 563, index: 38, probed index: 38
+State: Indiana - hash sum: 595, index: 70, probed index: 70
+State: Arkansas - hash sum: 608, index: 8, probed index: 8
+State: Kansas - hash sum: 609, index: 9, probed index: 9
+State: Minnesota - hash sum: 618, index: 18, probed index: 18
+State: North Dakota - hash sum: 555, index: 30, probed index: 30
+State: Vermont - hash sum: 631, index: 31, probed index: 31
+State: Oregon - hash sum: 618, index: 18, probed index: 19
+State: West Virginia - hash sum: 537, index: 12, probed index: 12
+State: Montana - hash sum: 621, index: 21, probed index: 22
+State: Idaho - hash sum: 532, index: 7, probed index: 7
+State: Nevada - hash sum: 591, index: 66, probed index: 66
+State: Missouri - hash sum: 640, index: 40, probed index: 40
+State: Utah - hash sum: 534, index: 9, probed index: 10
+State: Hawaii - hash sum: 595, index: 70, probed index: 71
+State: South Carolina - hash sum: 563, index: 38, probed index: 39
+State: North Carolina - hash sum: 555, index: 30, probed index: 32
+State: Maine - hash sum: 537, index: 12, probed index: 13
+State: Texas - hash sum: 564, index: 39, probed index: 41
+State: Kentucky - hash sum: 618, index: 18, probed index: 20
+State: Colorado - hash sum: 608, index: 8, probed index: 11
+State: Michigan - hash sum: 593, index: 68, probed index: 68
+State: Ohio - hash sum: 525, index: 0, probed index: 1
+State: Pennsylvania - hash sum: 637, index: 37, probed index: 37
+State: Florida - hash sum: 608, index: 8, probed index: 14
+State: Louisiana - hash sum: 629, index: 29, probed index: 29
+State: Oklahoma - hash sum: 606, index: 6, probed index: 6
+State: Mississippi - hash sum: 632, index: 32, probed index: 33
+State: New Jersey - hash sum: 505, index: 55, probed index: 55
+State: Iowa - hash sum: 520, index: 70, probed index: 72
+State: New York - hash sum: 530, index: 5, probed index: 15
+State: Virginia - hash sum: 623, index: 23, probed index: 23
+State: Alabama - hash sum: 574, index: 49, probed index: 49
+State: Delaware - hash sum: 590, index: 65, probed index: 65
+State: Wisconsin - hash sum: 627, index: 27, probed index: 27
+State: New Hampshire - hash sum: 499, index: 49, probed index: 50
+State: Illinois - hash sum: 615, index: 15, probed index: 16
+State: Arizona - hash sum: 627, index: 27, probed index: 28
+State: Maryland - hash sum: 614, index: 14, probed index: 17
+State: Nebraska - hash sum: 603, index: 3, probed index: 3
+State: California - hash sum: 590, index: 65, probed index: 67
+State: Washington - hash sum: 618, index: 18, probed index: 24
+State: Georgia - hash sum: 605, index: 5, probed index: 25
+State: Connecticut - hash sum: 598, index: 73, probed index: 73
+State: Alaska - hash sum: 589, index: 64, probed index: 64
+Hash Table Status: DDNDNDDDDDDDDDDDDDDDDDDDDDNDDDDDDDNNNDDDDDNDNNNNNDDNNNNDNNDNNNNNDDDDDNDDDDN
+
+     Minimum contiguous bins: 1
+     Maximum contiguous bins: 21
+        Number of empty bins: 25
+
+Array Dump:
+Massachusetts/MA/261/41.0/-35.0/107.0
+Ohio/OH/386/50.7/-39.0/113.0
+null
+Nebraska/NE/68/48.8/-47.0/118.0
+null
+Rhode Island/RI/37/50.1/-25.0/104.0
+Oklahoma/OK/158/59.6/-27.0/120.0
+Idaho/ID/33/51.8/-60.0/118.0
+Arkansas/AR/108/60.3/-29.0/120.0
+Kansas/KS/99/54.3/-40.0/121.0
+Utah/UT/60/48.6/-69.0/117.0
+Colorado/CO/171/45.1/-61.0/118.0
+West Virginia/WV/99/51.8/-37.0/112.0
+Maine/ME/60/47.9/-50.0/105.0
+Florida/FL/439/70.7/-2.0/109.0
+New York/NY/632/45.4/-52.0/108.0
+Illinois/IL/391/51.7/-36.0/117.0
+Maryland/MD/148/54.2/-40.0/109.0
+Minnesota/MN/169/41.2/-60.0/114.0
+Oregon/OR/125/48.4/-54.0/119.0
+Kentucky/KY/165/55.6/-37.0/114.0
+Tennessee/TN/191/57.6/-32.0/113.0
+Montana/MT/54/42.7/-70.0/117.0
+Virginia/VA/222/55.1/-30.0/110.0
+Washington/WA/164/48.3/-48.0/118.0
+Georgia/GA/210/63.5/-17.0/112.0
+null
+Wisconsin/WI/132/43.1/-55.0/114.0
+Arizona/AZ/155/60.4/-40.0/128.0
+Louisiana/LA/173/66.4/-16.0/114.0
+North Dakota/ND/30/40.4/-60.0/121.0
+Vermont/VT/32/42.9/-50.0/105.0
+North Carolina/NC/188/59.0/-34.0/110.0
+Mississippi/MS/69/54.5/-19.0/115.0
+null
+null
+null
+Pennsylvania/PA/544/48.8/-42.0/111.0
+South Dakota/SD/33/45.2/-58.0/120.0
+South Carolina/SC/97/62.4/-19.0/111.0
+Missouri/MO/242/63.4/-40.0/118.0
+Texas/TX/506/64.8/-23.0/120.0
+null
+Wyoming/WY/17/42.0/-66.0/115.0
+null
+null
+null
+null
+null
+Alabama/AL/129/26.6/-27.0/112.0
+New Hampshire/NH/43/49.9/-47.0/106.0
+null
+null
+null
+null
+New Jersey/NJ/207/43.8/-34.0/110.0
+null
+null
+New Mexico/NM/61/52.7/-50.0/122.0
+null
+null
+null
+null
+null
+Alaska/AK/35/62.8/-80.0/100.0
+Delaware/DE/23/55.3/-17.0/110.0
+Nevada/NV/77/53.4/-50.0/125.0
+California/CA/1246/59.4/-45.0/134.0
+Michigan/MI/302/44.4/-51.0/112.0
+null
+Indiana/IN/175/47.8/-36.0/116.0
+Hawaii/HI/43/70.0/12.0/100.0
+Iowa/IA/107/44.4/-47.0/118.0
+Connecticut/CT/114/49.0/-32.0/106.0
+null

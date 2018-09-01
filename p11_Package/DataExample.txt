@@ -1,0 +1,64 @@
+FOR THE FOLLOWING DATA INPUT TO THE GRAPH CLASS:
+       gc.setVertex( 'B', 'D', 2 );
+       gc.setVertex( 'D', 'E', 5 );
+       gc.setVertex( 'D', 'C', 3 );
+       gc.setVertex( 'B', 'F', 4 );
+       gc.setVertex( 'E', 'A', 3 );
+       gc.setVertex( 'A', 'M', 4 );
+       gc.setVertex( 'A', 'R', 6 );
+       gc.setVertex( 'A', 'T', 5 );
+
+Adjacency Matrix Table
+
+       A B C D E F M R T 
+     A - - - - 3 - 4 6 5
+     B - - - 2 - 4 - - -
+     C - - - 3 - - - - -
+     D - 2 3 - 5 - - - -
+     E 3 - - 5 - - - - -
+     F - 4 - - - - - - -
+     M 4 - - - - - - - -
+     R 6 - - - - - - - -
+     T 5 - - - - - - - -
+
+Breadth-First Traversal
+Vertex Queue: B
+Vertex Queue: -
+Vertex Queue: D
+Vertex Queue: F D
+Vertex Queue: F
+Vertex Queue: C F
+Vertex Queue: E C F
+Vertex Queue: E C
+Vertex Queue: E
+Vertex Queue: -
+Vertex Queue: A
+Vertex Queue: -
+Vertex Queue: M
+Vertex Queue: R M
+Vertex Queue: T R M
+Vertex Queue: T R
+Vertex Queue: T
+Vertex Queue: -
+Breadth-First Result: B D F C E A M R T
+
+Depth First Traversal: 
+Vertex Stack: B
+Vertex Stack: B D
+Vertex Stack: B D C
+Vertex Stack: B D
+Vertex Stack: B D E
+Vertex Stack: B D E A
+Vertex Stack: B D E A M
+Vertex Stack: B D E A
+Vertex Stack: B D E A R
+Vertex Stack: B D E A
+Vertex Stack: B D E A T
+Vertex Stack: B D E A
+Vertex Stack: B D E
+Vertex Stack: B D
+Vertex Stack: B
+Vertex Stack: B F
+Vertex Stack: B
+Vertex Stack: -
+Depth-First Result: B D C E A M R T F
